@@ -305,7 +305,8 @@ body,html {
 	font-family: Arial;
 	background-color:#c3c1cc;
 	color: black;
-	left: 80px;	
+	left: 80px;
+	right:5em;
 }
 
 .builders{
