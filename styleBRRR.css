@@ -298,7 +298,9 @@ body,html {
 	top: -5px;
 	left: -300px
 }
-.backbutton{
+
+
+/*.backbutton{
 	position:absolute;
 	font-size: 15px;
 	bottom:20px;
@@ -307,7 +309,7 @@ body,html {
 	color: black;
 	left: 120px;
 }
-
+*/
 .builders{
 	position:absolute;
 	color: white;
