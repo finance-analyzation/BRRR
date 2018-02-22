@@ -300,16 +300,16 @@ body,html {
 }
 
 
-/*.backbutton{
+.backbutton{
 	position:absolute;
 	font-size: 15px;
 	bottom:20px;
 	font-family: Arial;
 	background-color:#c3c1cc;
 	color: black;
-	left: 120px;
+	left: 80px;
 }
-*/
+
 .builders{
 	position:absolute;
 	color: white;
