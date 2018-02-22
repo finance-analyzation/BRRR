@@ -308,6 +308,8 @@ body,html {
 	background-color:#c3c1cc;
 	color: black;
 	left: 80px;
+	white-space:nowrap;
+
 }
 
 .builders{
