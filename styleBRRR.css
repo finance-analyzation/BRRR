@@ -299,21 +299,6 @@ body,html {
 	left: -300px
 }
 
-
-.backbutton{
-	position:absolute;
-	font-size: 15px;
-	bottom:20px;
-	font-family: Arial;
-	background-color:#c3c1cc;
-	color: black;
-	left: 80px;
-	white-space:nowrap;
-	top: 23em;
-	left:2em;
-
-}
-
 .builders{
 	position:absolute;
 	color: white;
